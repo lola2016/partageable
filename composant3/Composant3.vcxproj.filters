@@ -18,7 +18,7 @@
     <ClInclude Include="Composant3Version.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="..\interfaces\Composant3.h">
+    <ClInclude Include="Composant3.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>

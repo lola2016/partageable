@@ -1,26 +1,13 @@
-﻿La génération a démarré 22/01/2016 16:32:30.
-     1>Projet "C:\Users\laralo15\Documents\GitHub\partageable\Composant3\Composant3.vcxproj" sur le nœud 2 (build cible(s)).
-     1>InitializeBuildStatus:
-         Mise à jour de l'horodatage "Debug\Composant3.unsuccessfulbuild".
-       ClCompile:
-         Toutes les sorties sont à jour.
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\laralo15\Documents\GitHub\partageable\Interfaces /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Composant3.cpp
+﻿La génération a démarré 26/01/2016 20:12:28.
+     1>Projet "C:\Users\laralo15\Documents\GitHub\partageable\Composant3\Composant3.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\laralo15\Documents\GitHub\partageable\Interfaces /ZI /nologo /W3 /WX- /Od /Oy- /D COMPOSANT3_EXPORTS /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Composant3.cpp
          Composant3.cpp
-     1>c:\users\laralo15\documents\github\partageable\composant3\composant3.cpp(11): warning C4273: 'composant3' : liaison DLL incohérente
-                 c:\users\laralo15\documents\github\partageable\interfaces\composant3.h(14) : voir la définition précédente de 'composant3'
-     1>c:\users\laralo15\documents\github\partageable\composant3\composant3.cpp(21): warning C4273: 'getComposant3Version' : liaison DLL incohérente
-                 c:\users\laralo15\documents\github\partageable\interfaces\composant3.h(16) : voir la définition précédente de 'getComposant3Version'
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Composant3.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.lib" /MACHINE:X86 /DLL Debug\Composant3.obj
-            Création de la bibliothèque C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.lib et de l'objet C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.exp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.lib" /MACHINE:X86 /DLL Debug\Composant3.obj
          Composant3.vcxproj -> C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.dll
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\laralo15\Documents\GitHub\partageable\Debug\Composant3.dll;#2" /manifest Debug\Composant3.dll.intermediate.manifest
-       FinalizeBuildStatus:
-         Suppression du fichier "Debug\Composant3.unsuccessfulbuild".
-         Mise à jour de l'horodatage "Debug\Composant3.lastbuildstate".
-     1>Génération du projet "C:\Users\laralo15\Documents\GitHub\partageable\Composant3\Composant3.vcxproj" terminée (build cible(s)).
+     1>Génération du projet "C:\Users\laralo15\Documents\GitHub\partageable\Composant3\Composant3.vcxproj" terminée (Build cible(s)).
 
 La génération a réussi.
 
-Temps écoulé 00:00:00.56
+Temps écoulé 00:00:00.44
